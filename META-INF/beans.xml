@@ -10,7 +10,7 @@
            http://www.springframework.org/schema/context
            http://www.springframework.org/schema/context/spring-context-4.3.xsd">
 
-<bean id="writerBean" class="writer.Writer" />
+<bean id="writerBean" class="writer.NiceWriterImpl" />
 
 <bean id="MySpringWriterBeanWithDependency" class="testbean.MySpringWriterBeanWithDependency">
 	<property name="writer" ref="writerBean" />
