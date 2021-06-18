@@ -7,5 +7,86 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/commons-logging-1.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-aop-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-aspects-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-beans-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-context-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-context-support-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-core-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-expression-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$USER_HOME$/Library/Mobile Documents/com~apple~CloudDocs/UCenfotec/BISOFT-15/labs/03/Archivos complementarios - files/Archivos complementarios - files/spring-instrument-4.3.3.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
   </component>
 </module>
