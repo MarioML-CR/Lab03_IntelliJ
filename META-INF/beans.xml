@@ -14,6 +14,8 @@
 
 <bean id="MySpringWriterBeanWithDependency" class="testbean.MySpringWriterBeanWithDependency">
 	<property name="writer" ref="writerBean" />
-	</bean>
+	<property name="agregador" ref="BeanAgregador" />
+</bean>
+<bean id="BeanAgregador" class="sumador.ConcatenadorAgregadorImpl" />
 
 </beans> 
